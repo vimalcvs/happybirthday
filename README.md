@@ -35,8 +35,8 @@ visit http://localhost:8081 in your browser.
 
 ## For further queries do not hesitate to contact me.
 
-Ayush Sharma Arya College Of Engineering & IT, Jaipur India.
+Vimal K. Vishwakarma
 
-contact details: ayush.aceit@gmail.com
+contact details: vimalcvs29@gmail.com
 
-IRC: ayushpix
+IRC: technovimal
